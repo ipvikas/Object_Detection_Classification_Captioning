@@ -7,6 +7,13 @@
 5. YOLO
 
 **Reference links:**
+IMP: https://huggingface.co/google/vit-base-patch16-224
+IMP: https://huggingface.co/docs/transformers/main/en/model_doc/auto#transformers.AutoModelForImageClassification
+IMP: https://huggingface.co/facebook/convnext-tiny-224
+IMP: https://huggingface.co/facebook/detr-resnet-50
+IMP: https://huggingface.co/dandelin/vilt-b32-finetuned-vqa
+IMP: https://huggingface.co/openai/clip-vit-base-patch32
+
 https://arxiv.org/abs/2010.11929
 https://www.cvlib.net/
 
@@ -20,5 +27,4 @@ https://huggingface.co/docs/transformers/main_classes/pipelines
 https://huggingface.co/docs/transformers/main/en/model_doc/auto#transformers.AutoModelForObjectDetection
 https://huggingface.co/docs/transformers/main/en/model_doc/auto#transformers.AutoModelForImageSegmentation
 https://huggingface.co/docs/transformers/main/en/model_doc/auto#transformers.AutoModelForVision2Seq
-https://huggingface.co/facebook/detr-resnet-50
 https://huggingface.co/docs/transformers/main/en/model_doc/clip
