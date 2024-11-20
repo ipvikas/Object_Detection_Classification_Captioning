@@ -1,5 +1,10 @@
 # Object_Detection_Classification_Captioning
-Object_Detection_Classification_Captioning
+
+1. Using "Image classification", predict which class(es) (i.e. items) belong to it. Out is 'score and 'Label", 'Box', 
+2. Using 'Visual question answering (VQA)", ask a question, relevant to the image and get the answer
+3. Using 'CLIP', get a higher score for a class label, which is more relevant
+4. Using 'VisionEncoderDecoderModel ', get reasonable image captioning results
+5. YOLO
 
 **Reference links:**
 https://arxiv.org/abs/2010.11929
